@@ -29,7 +29,7 @@ https://app.diagrams.net/#G1cc-0-RFMqh4eRY1Vh28ElXyF7EeMj-0q#%7B%22pageId%22%3A%
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Usuario<br>2. CRUD Tipo Entrada<br>3. CRUD Equipos<4>.CRUD Socio|
+|CRUD simple|1. CRUD Usuario<br>2. CRUD Tipo Entrada<br>3. CRUD Equipos<br>4.CRUD Socio|
 |CRUD dependiente|1. CRUD Partidos {depende de} equipos y estadios<br>2.CRUD sector<br>3.CRUD estadio|
 |Listado<br>+<br>detalle| 1. Listado de partidos con detalle (Ver fecha, hora, equipos, estadio y botón para comprar entrada.)<br> 2. Listado de entradas del usuario (El usuario ve sus entradas compradas con información del partido, QR, ubicación, etc.) 
 |CUU/Epic|1. Comprar una entrada para un partido<br>2. Notificacion de fechas de partido|
@@ -38,7 +38,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Usuario<br>2. CRUD Tipo Entrada<br>3. CRUD Equipos<4>.CRUD Socio|
+|CRUD |1. CRUD Usuario<br>2. CRUD Tipo Entrada<br>3. CRUD Equipos<br>4.CRUD Socio|
 |CUU/Epic|1. Comprar una entrada para un partido<br>2.Metodos de pago<br>3.Sancionar socios|
 
 
