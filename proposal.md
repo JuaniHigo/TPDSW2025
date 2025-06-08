@@ -8,7 +8,7 @@
 * 50264 - Ortiz Daiana
 
 ### Repositorios
-* [frontend app]()
+* [frontend app](https://github.com/JuaniHigo/TPDSW-frontend)
 * [backend app]()
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
