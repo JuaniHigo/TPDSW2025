@@ -8,7 +8,7 @@
 * 50264 - Ortiz Daiana
 
 ### Repositorios
-* [Frontend app](https://github.com/JuaniHigo/TPDSW-frontend) — Aplicación frontend con Svelte.
+* [Frontend app](https://github.com/JuaniHigo/TPDSW-frontend) — Aplicación frontend con React.
 * [Backend app](https://github.com/JuaniHigo/TPDSW-backend) — Servidor backend con Node.js y Express.
 
 
