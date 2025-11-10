@@ -19,7 +19,7 @@ Este proyecto está construido con una arquitectura de dos repositorios:
 
 ## 📈 Modelo y Alcance
 
-* **Diagrama del Sistema:** El modelo entidad-relación y la arquitectura se pueden consultar aquí: [Ver Diagrama en Diagrams.net](https://app.diagrams.net/#G1cc-0-RFMqh4eRY1Vh28ElXyF7EeMj-0q#%7B%22pageId%22%3A%22B9eb_MdfH_icAN6wSzJy%22%7D)
+* **Diagrama del Sistema:** El modelo entidad-relación y la arquitectura se pueden consultar aquí: [[Ver Diagrama en Diagrams.net](https://app.diagrams.net/#G1cc-0-RFMqh4eRY1Vh28ElXyF7EeMj-0q#%7B%22pageId%22%3A%22B9eb_MdfH_icAN6wSzJy%22%7D)](https://drive.google.com/file/d/1bscyIyzCwEmkGXDz6vuTXInQRxYRtFpc/view?usp=sharing)
 * **Alcance Funcional:** El proyecto incluye CRUDs completos para Usuarios, Entradas, Partidos, Equipos y Socios, además de los casos de uso principales como el proceso de compra y notificación.
 
 ## 👥 Equipo de Desarrollo
