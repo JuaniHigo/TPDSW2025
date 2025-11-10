@@ -17,10 +17,10 @@
 ### Descripción
 Kicket es una página web para la venta online de entradas a partidos de fútbol. Los usuarios podrán ver el calendario de encuentros, elegir sus asientos y comprar entradas de forma rápida y segura. La plataforma incluirá registro de usuarios, distintos métodos de pago y confirmación por correo electrónico. Su objetivo es facilitar el acceso a entradas, evitando filas y optimizando la experiencia del hincha.
 ### Modelo
-![WhatsApp Image 2025-04-11 at 11 12 19](https://github.com/user-attachments/assets/7bc37322-09f7-40e9-87ba-777df41c6276)
+[![WhatsApp Image 2025-04-11 at 11 12 19](https://github.com/user-attachments/assets/7bc37322-09f7-40e9-87ba-777df41c6276)
 
 https://app.diagrams.net/#G1cc-0-RFMqh4eRY1Vh28ElXyF7EeMj-0q#%7B%22pageId%22%3A%22B9eb_MdfH_icAN6wSzJy%22%7D
-
+](https://drive.google.com/file/d/1bscyIyzCwEmkGXDz6vuTXInQRxYRtFpc/view?usp=sharing)
 ## Alcance Funcional 
 
 ### Alcance Mínimo
